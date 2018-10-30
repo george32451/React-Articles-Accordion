@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/user/Документы/React/test-app/src/components/ArticleList/style.css","main.275c7b42.chunk.css"],"names":[],"mappings":"AAAA,kBACI,eAAiB,CCCpB","file":"main.275c7b42.chunk.css","sourcesContent":[".article-list__li {\n    list-style: none;\n}",".article-list__li {\n    list-style: none;\n}\n"]}
